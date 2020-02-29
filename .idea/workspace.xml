@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a84a942-b429-454a-b648-e0a95d02e26c" name="Default Changelist" comment="" />
+    <list default="true" id="3a84a942-b429-454a-b648-e0a95d02e26c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loremipsum.php" beforeDir="false" afterPath="$PROJECT_DIR$/loremipsum.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +24,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1YEZ0ogeA8bHmRv4ifHvYVbff8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,9 +38,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css/img" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +56,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="loremipsum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/loremipsum.php">
+    <configuration name="loremipsum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="/loremipsum.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -70,7 +80,7 @@
       <workItem from="1582671674947" duration="16492000" />
       <workItem from="1582747395745" duration="7060000" />
       <workItem from="1582835495367" duration="12137000" />
-      <workItem from="1582920978088" duration="2617000" />
+      <workItem from="1582920978088" duration="4491000" />
     </task>
     <servers />
   </component>
@@ -78,10 +88,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1001" y="178" key="#CLI_Interpreters" timestamp="1582510946152">
+    <state x="1001" y="178" key="#CLI_Interpreters" timestamp="1582927200981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1001" y="178" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1582510946152" />
+    <state x="1001" y="178" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1582927200981" />
     <state x="1147" y="114" key="#PHP" timestamp="1582509650678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -94,6 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1150" y="274" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582693602770" />
+    <state x="1065" y="114" key="CommitChangelistDialog2" timestamp="1582955286764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1065" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582955286764" />
     <state x="1199" y="236" key="FileChooserDialogImpl" timestamp="1582510237679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -138,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582509575915" />
-    <state x="826" y="177" key="SettingsEditor" timestamp="1582581796928">
+    <state x="826" y="177" key="SettingsEditor" timestamp="1582927364528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="826" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582581796928" />
+    <state x="826" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582927364528" />
     <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1582530799678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

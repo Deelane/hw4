@@ -114,8 +114,7 @@ header>div>div>div
 }
 article
 {
-  background: rgb(237,237,237);
-  background: linear-gradient(90deg, rgba(237,237,237,1) 0%, rgba(244,244,244,1) 50%, rgba(237,237,237,1) 100%);
+  background-color: white;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -162,6 +161,8 @@ article>form>div
 }
 #paragraphs
 {
+  background: rgb(237,237,237);
+  background: linear-gradient(90deg, rgba(237,237,237,1) 0%, rgba(244,244,244,1) 50%, rgba(237,237,237,1) 100%);
   font-size: 100px;
   height: 90%;
   max-height: 90%;
@@ -173,8 +174,7 @@ aside
   position: relative;
   height: 100%;
   width: 60%;
-  background: rgb(237,237,237);
-  background: linear-gradient(90deg, rgba(237,237,237,1) 0%, rgba(244,244,244,1) 50%, rgba(237,237,237,1) 100%);
+  background-color: white;
   border: 2px ridge black;
 }
 aside>div
@@ -197,8 +197,8 @@ aside>div
 }
 #ipsumtext
 {
-  background: white;
-  border: 2px ridge black;
+  background: rgb(237,237,237);
+  background: linear-gradient(90deg, rgba(237,237,237,1) 0%, rgba(244,244,244,1) 50%, rgba(237,237,237,1) 100%);  border: 2px ridge black;
   overflow: auto;
   font-size: 20px;
   height: 80%;

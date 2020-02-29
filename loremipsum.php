@@ -13,8 +13,6 @@
 </head>
 <body>
 
-</div>
-
 <!--Header-->
 <header>
     <!--E-40 image div-->
@@ -32,7 +30,7 @@
 
     <div id="articleasideDiv">
         <article>
-            <div>Start</div>
+            <div>Settings</div>
             <form id="form" action="loremipsum.php" method="POST">
                 <div id="checkboxDiv">
                     <div>
@@ -41,12 +39,12 @@
                     </div>
                     <div>
                         <input name="realcheckbox" id="realcheckbox" type="checkbox">
-                        <label for="realcheckbox">Real</label>
+                        <label for="realcheckbox">REAL <span style="color:grey; font-size: 16px;">(Include NSFW Lyrics)</span></label>
                     </div>
                 </div>
 
                 <div>
-                    <label for="paragraphs">Paragraphs:</label>
+                    <label for="paragraphs"><span style="font-size: 30px; font-weight: bold;">Paragraphs:</span></label>
                     <input type="number" min="1" name="paragraphs" id="paragraphs" value="1">
                 </div>
 
